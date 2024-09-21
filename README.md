@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yasmine 
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on web designs and languages
+- 🌱 I’m currently learning Python 
+- 💞️ I’m looking to collaborate on web designs
 - 📫 Contact: yasminenurahaziz@gmail.com
 
 <!---
