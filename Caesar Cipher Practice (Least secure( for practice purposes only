@@ -1,0 +1,4 @@
+##Upload Plaintext
+##Key is generated along with PT, mulitple roundkeys are generated for 20 rounds.
+##Cipher is created by shifting by 4???
+##Cipher text is generated
