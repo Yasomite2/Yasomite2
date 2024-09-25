@@ -1,0 +1,7 @@
+## Ask the user to input there name/ alias
+##Ask user to input their Plaintext
+##Cipher is created, shifting by 4. Use the english alpha.
+##Cipher text is generated
+##Cipher text/ encrypted text is sent to authorized reader 
+##Input decryption method
+##Plain text is readable to authorized reader 
