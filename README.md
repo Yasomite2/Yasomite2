@@ -1,6 +1,6 @@
 -  hi, I’m Yasmine 
 -  interested in: cryptography & ethical hacking 
--  currenlty learning: python 
+-  currently learning: python 
 -  i’m looking to collaborate with passionate cryptographers
 - contact: yasminenurahaziz@gmail.com
 
